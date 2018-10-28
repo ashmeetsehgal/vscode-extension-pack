@@ -1,0 +1,32 @@
+{
+    "name": "ashmeets",
+    "displayName": "ashmeets",
+    "description": "For faster development",
+    "version": "0.0.1",
+    "publisher": "ashmeet",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "CoenraadS.bracket-pair-colorizer", 
+        "EQuimper.react-native-react-redux", 
+        "SirTori.indenticator", 
+        "WallabyJs.quokka-vscode", 
+        "christian-kohler.npm-intellisense", 
+        "christian-kohler.path-intellisense", 
+        "dbaeumer.vscode-eslint", 
+        "eamodio.gitlens", 
+        "esbenp.prettier-vscode", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-rename-tag", 
+        "humao.rest-client", 
+        "oderwat.indent-rainbow", 
+        "ritwickdey.LiveServer", 
+        "robertohuertasm.vscode-icons", 
+        "wix.vscode-import-cost", 
+        "xabikos.JavaScriptSnippets"
+    ]
+}
